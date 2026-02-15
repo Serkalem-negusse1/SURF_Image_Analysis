@@ -1,6 +1,6 @@
 **ORB + SIFT Image Analysis**
 
-This project demonstrates feature detection and matching using ORB (Oriented FAST and Rotated BRIEF) and SIFT (Scale-Invariant Feature Transform) in computer vision. The implementation compares the performance, accuracy, and behavior of both algorithms for image feature extraction and matching tasks.
+This project demonstrates feature detection and matching using ORB (Oriented FAST and Rotated BRIEF) and SIFT (Scale-Invariant Feature Transform) in computer vision. 
 
 **Overview**
 
